@@ -1,7 +1,12 @@
 ## Hi there 👋
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinjin-santhakumar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
-**shinjin-santhakumar/shinjin-santhakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shinjin-santhakumar/shinjin-santhakumar** is a ✨ _special_ ✨ repositohttps://github-readme-stats.vercel.app/api/top-langs/?username=shinjin-santhakumar&layout=donutry because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
