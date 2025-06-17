@@ -1,4 +1,4 @@
-## Hi there 👋
+## COOL GRAPHIC 👋
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinjin-santhakumar&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
